@@ -466,6 +466,7 @@ function FooterIcon({
     <Link
       href={href}
       target="_blank"
+       rel="noopener noreferrer"
       aria-label={label}
       className="flex h-10 w-10 items-center justify-center rounded-xl border border-violet-200/70 bg-white/60 text-zinc-500 transition-all duration-300 hover:-translate-y-0.5 hover:border-violet-300 hover:text-violet-700 hover:shadow-md dark:border-white/10 dark:bg-white/[0.04] dark:text-zinc-400 dark:hover:text-violet-200"
     >
