@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { useState, useEffect  } from "react";
+import { useState, useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { ThemeToggle } from "@/app/components/ThemeToggle";
 import { Link2 } from "lucide-react";
